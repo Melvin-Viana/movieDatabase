@@ -1,0 +1,25 @@
+{
+  "name": "moviedatabase",
+  "version": "1.0.0",
+  "description": "Full stack MERN app",
+  "main": "index.js",
+  "scripts": {
+    "test": "webpack --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Melvin-Viana/movieDatabase.git"
+  },
+  "keywords": [
+    "MERN",
+    "Fullstack",
+    "Movie",
+    "Database"
+  ],
+  "author": "Melvin Viana",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Melvin-Viana/movieDatabase/issues"
+  },
+  "homepage": "https://github.com/Melvin-Viana/movieDatabase#readme"
+}
